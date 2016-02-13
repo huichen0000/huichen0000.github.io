@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-01-30T16:55:52.365Z</updated>
+  <updated>2016-02-13T17:03:17.475Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Love]]></title>
+    <link href="http://yoursite.com/2016/02/14/20160214/"/>
+    <id>http://yoursite.com/2016/02/14/20160214/</id>
+    <published>2016-02-13T17:03:17.475Z</published>
+    <updated>2016-02-13T17:03:17.475Z</updated>
+    <content type="html"><![CDATA[<p>我爱你！<br>你不是说不了解我吗，<br><a href="http://huichen0000.lofter.com/" target="_blank" rel="external">http://huichen0000.lofter.com/</a><br>这是我所有的日记，密码是我阴历生日<br>我想给你看，虽然看了你也不会有啥反应<br>我是什么样的人，我大概就是注定孤独的人吧<br>我会一直等你</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>我爱你！<br>你不是说不了解我吗，<br><a href="http://huichen0000.lofter.com/" target="_blank" rel="external">http://huichen0000.lofter.com/</a><br>这是我所有]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[END...]]></title>
